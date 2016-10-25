@@ -1,0 +1,86 @@
+/*-------Gina's Page--------*/
+
+*
+{
+margin:0;
+padding:0;
+font-family:verdana;
+color:#433e42;
+}
+
+#wrapper
+{
+width:80%;/*940px;*/
+margin-left: auto;
+margin-right:auto;
+overflow:hidden;
+margin-top: 20px;
+margin-bottom:20px;
+}
+
+/*header
+{
+width:auto;
+float:none;
+}
+*/
+
+#inner-header
+{
+margin-left:42%;
+display:inline-block;
+overflow:hidden;
+width:55%;
+float:none;
+}
+
+#logo-home
+{
+	margin:0 auto;
+	clear:both;
+}
+
+
+
+ul li{
+display:inline;
+}
+
+ul li a img
+{
+padding-top:10px;
+margin-right:2%;
+}
+
+
+footer
+{
+line-height:30px;
+clear:both;
+//height:70px;
+text-align:center;
+padding:5%;
+}
+
+
+footer li
+{
+//font-style:italic;
+margin:1%;
+display:inline;
+}
+
+footer a
+{
+color:#009cc5;
+}
+
+
+#banner
+{
+	text-align:center;
+	line-height:30px;
+	margin-top:20px;
+	margin-bottom:20px;
+	clear:both;
+}
